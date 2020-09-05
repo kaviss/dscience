@@ -1,0 +1,21 @@
+Linear Regression - 
+
+How Gradient desent parabola arrived .
+Map Residual Square ( Loss function value ) to Slope 
+
+when the slope increases , error reduces and this when plotted gives parabola 
+So our aim is to reach the minima of parabola and slope value of that would be the least value for loss function 
+
+
+Ridge Regression - Penality square 
+
+1. Used when you want to penalize the higher slope and to avoid overfitting during linear regression ( Least Square method ) 
+2. How to Penalize . 
+    Least square cost function - (y-y^)
+    Ridge - (y-y^)2 / lambda + slope2 
+    
+3. So here the     
+
+
+
+Lasso Regression 
