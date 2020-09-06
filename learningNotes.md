@@ -1,4 +1,4 @@
-Linear Regression - 
+###Linear Regression - 
 
 How Gradient desent parabola arrived .
 Map Residual Square ( Loss function value ) to Slope 
