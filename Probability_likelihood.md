@@ -4,7 +4,7 @@
     pr(data | distribution )
     
     pr(mouse weigh > 34 gms | mean = 32 and SD = 2.5) 
-    ![](images/Probability.png )
+    ![](images/probability.png )
 
 ## Likehood
 
