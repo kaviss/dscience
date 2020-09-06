@@ -40,3 +40,15 @@
 ![image info](./images/Ridge_regression.png)
 
 ![image info](./images/Ridge_vs_Lasso.png)
+
+
+### Logistic Regression
+
+1.  Assumption - Values on the left side of slope. + ve 
+                 Values on the right side of slope =ve 
+                 
+```Math
+y X wT+c
+```
+
+
